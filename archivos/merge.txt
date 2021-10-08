@@ -1,3 +1,10 @@
 Felipe Miranda Arboleda
 20 años
 Aspiro aprender POO, practicar el uso de Java, ser capaz de crear independientemente proyectos de programación con interfaces gráficas simples.
+
+Ahora sí puedo crear archivos ya que no es una carpeta vacía. Dado que github no sube o detecta una carpeta vacía.
+
+Se ve la importancia de no trabajar simultáneamente en el mismo archivo.
+Esto lleva a conflictos en los datos con los que se está trabajando
+y desencadena la labor de tener que trabajar más y encontrarse con problemas
+de consistencia. 

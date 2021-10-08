@@ -1,0 +1,1 @@
+No permitía hacer commit porque era una carpeta vacía.

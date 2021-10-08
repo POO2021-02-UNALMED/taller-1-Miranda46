@@ -1,0 +1,1 @@
+Ahora sí puedo crear archivos ya que no es una carpeta vacía. Dado que github no sube o detecta una carpeta vacía.
